@@ -1,0 +1,100 @@
+{
+    "images": [
+        {
+            "file_name": "1.jpg",
+            "width": 1,
+            "height": 1,
+            "id": "1"
+        },
+        {
+            "file_name": "10.jpg",
+            "width": 1,
+            "height": 1,
+            "id": "10"
+        },
+        {
+            "file_name": "28.jpg",
+            "width": 1,
+            "height": 1,
+            "id": "28"
+        },
+        {
+            "file_name": "4.jpg",
+            "width": 1,
+            "height": 1,
+            "id": "4"
+        },
+        {
+            "file_name": "42.jpg",
+            "width": 1,
+            "height": 1,
+            "id": "42"
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "Telegraph-poles",
+            "name": "Telegraph-poles",
+            "id": 1
+        },
+        {
+            "supercategory": "tree",
+            "name": "tree",
+            "id": 2
+        }
+    ],
+    "annotations": [
+        {
+            "area": 875986.0,
+            "category_id": 2,
+            "image_id": "1",
+            "iscrowd": 0,
+            "bbox": [
+                37.0,
+                39.0,
+                946.0,
+                926.0
+            ],
+            "id": 0
+        },
+        {
+            "area": 662218.0,
+            "category_id": 2,
+            "image_id": "10",
+            "iscrowd": 0,
+            "bbox": [
+                134.0,
+                33.0,
+                706.0,
+                938.0
+            ],
+            "id": 1
+        },
+        {
+            "area": 660290.0,
+            "category_id": 2,
+            "image_id": "4",
+            "iscrowd": 0,
+            "bbox": [
+                145.0,
+                36.0,
+                710.0,
+                930.0
+            ],
+            "id": 2
+        },
+        {
+            "area": 97950.0,
+            "category_id": 2,
+            "image_id": "42",
+            "iscrowd": 0,
+            "bbox": [
+                287.0,
+                3.0,
+                248.0,
+                395.0
+            ],
+            "id": 3
+        }
+    ]
+}
