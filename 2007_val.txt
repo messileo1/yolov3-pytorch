@@ -1,0 +1,5 @@
+F:\Bubliiing\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/12.jpg 568,60,734,269,1
+F:\Bubliiing\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2.jpg 701,549,966,811,1
+F:\Bubliiing\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/45.jpg 484,283,552,467,0 37,7,546,474,1
+F:\Bubliiing\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/5.jpg 62,7,950,963,1
+F:\Bubliiing\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/9.jpg 27,50,891,867,1
